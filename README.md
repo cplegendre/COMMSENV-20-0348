@@ -5,7 +5,7 @@
 ### Manuscript number: COMMSENV-20-0348
 
 File description:
-- Dispersion curves:
+- Dispersion curves (zip file):
 	+ Ambient Noise Tomography (2,604 inter-station dispersion curves).
 	Reference: Legendre, C.P., Tseng, T.L. and Zhao, L., 2020. Surface-wave phase-velocity maps of the Anatolia region (Turkey) from ambient noise tomography. Journal of Asian Earth Sciences, 193, p.104322.
 	+ Inter-station method (1,589 inter-station dispersion curves).
