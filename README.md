@@ -2,6 +2,7 @@
 # Large-scale variation in seismic anisotropy in the crust and upper mantle beneath Anatolia, Turkey
 ## by C. P. Legendre, L. Zhao & T.L Tseng
 ### Published in Communications Earth & Environment (2021)
+### Manuscript number: COMMSENV-20-0348
 
 File description:
 - Dispersion curves:
