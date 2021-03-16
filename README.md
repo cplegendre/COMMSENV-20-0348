@@ -1,4 +1,4 @@
-### Supplementary material for:
+### Supplementary data for:
 # Large-scale variation in seismic anisotropy in the crust and upper mantle beneath Anatolia, Turkey
 ## by C. P. Legendre, L. Zhao & T.L Tseng
 ### Published in Communications Earth & Environment (2021)
@@ -14,7 +14,7 @@ File format:
 
 - Dispersion curves:
 	+ Line 1: Name of the stations,
-	+ Line 2: Chanels,
+	+ Line 2: Chanel,
 	+ Line 3: Latitude / longitude of both stations,
 	+ Lines 4+: period (s) / phase velocity (km/s) / relative error (km/s).
 	
